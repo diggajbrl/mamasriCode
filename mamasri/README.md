@@ -1,4 +1,6 @@
-# 🛠️ Mantis Console Snippets
+# 🛠️ Mamasri Console Snippets
+
+[👉 Follow me on GitHub](https://github.com/diggajbaral)
 
 Speed up your JavaScript debugging with handy console shortcuts!
 
